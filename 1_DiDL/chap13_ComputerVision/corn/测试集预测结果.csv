@@ -1,0 +1,488 @@
+图像路径,标注类别ID,标注类别名称,top-1-预测ID,top-1-预测名称,top-2-预测ID,top-2-预测名称,top-3-预测ID,top-3-预测名称,top-n预测正确,debanbing-预测置信度,healthy-预测置信度,wenbaoyebanbing-预测置信度,xiubing-预测置信度,yuanbanbing-预测置信度
+../../data/corn/test/dabanbing/dabanbing (130).JPG,0,debanbing,0,debanbing,2,wenbaoyebanbing,1,healthy,True,0.8219097,0.020922929,0.12861598,0.019152593,0.009398735
+../../data/corn/test/dabanbing/dabanbing (131).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.9465281,0.0038634015,0.008663781,0.024734894,0.016209833
+../../data/corn/test/dabanbing/dabanbing (132).JPG,0,debanbing,0,debanbing,4,yuanbanbing,3,xiubing,True,0.74875194,0.059017368,0.02928657,0.06669637,0.09624774
+../../data/corn/test/dabanbing/dabanbing (133).JPG,0,debanbing,0,debanbing,4,yuanbanbing,2,wenbaoyebanbing,True,0.79221505,0.049745973,0.05248355,0.039803203,0.06575216
+../../data/corn/test/dabanbing/dabanbing (145).JPG,0,debanbing,0,debanbing,2,wenbaoyebanbing,3,xiubing,True,0.986555,0.00043740906,0.005097764,0.0043958,0.0035141273
+../../data/corn/test/dabanbing/dabanbing (147).JPG,0,debanbing,0,debanbing,4,yuanbanbing,2,wenbaoyebanbing,True,0.9798607,0.0004390459,0.005408312,0.0048718746,0.009419993
+../../data/corn/test/dabanbing/dabanbing (150).JPG,0,debanbing,0,debanbing,4,yuanbanbing,2,wenbaoyebanbing,True,0.7983382,0.028891886,0.04060411,0.01842382,0.11374205
+../../data/corn/test/dabanbing/dabanbing (151).JPG,0,debanbing,0,debanbing,2,wenbaoyebanbing,3,xiubing,True,0.97902966,0.002415435,0.007932326,0.0064997473,0.0041228863
+../../data/corn/test/dabanbing/dabanbing (153).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.7934987,0.015956765,0.010023835,0.16368842,0.016832275
+../../data/corn/test/dabanbing/dabanbing (156).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.94571495,0.002039685,0.0052157757,0.043203652,0.0038258338
+../../data/corn/test/dabanbing/dabanbing (161).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.7374211,0.004713939,0.11139132,0.13229017,0.014183532
+../../data/corn/test/dabanbing/dabanbing (162).JPG,0,debanbing,0,debanbing,2,wenbaoyebanbing,4,yuanbanbing,True,0.8903511,0.017787652,0.05338701,0.015245439,0.023228783
+../../data/corn/test/dabanbing/dabanbing (163).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.8418096,0.018078562,0.015956398,0.093398035,0.030757437
+../../data/corn/test/dabanbing/dabanbing (166).JPG,0,debanbing,0,debanbing,2,wenbaoyebanbing,4,yuanbanbing,True,0.7674142,0.031875685,0.11718723,0.015149209,0.06837368
+../../data/corn/test/dabanbing/dabanbing (167).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.35936624,0.09795417,0.08666898,0.3116929,0.1443177
+../../data/corn/test/dabanbing/dabanbing (168).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.89220524,0.015314704,0.014443024,0.054696873,0.023340212
+../../data/corn/test/dabanbing/dabanbing (170).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.9823261,0.0014245784,0.0037599364,0.008406748,0.004082626
+../../data/corn/test/dabanbing/dabanbing (172).JPG,0,debanbing,0,debanbing,3,xiubing,1,healthy,True,0.903741,0.0039368775,0.002411531,0.088506795,0.0014037698
+../../data/corn/test/dabanbing/dabanbing (175).JPG,0,debanbing,0,debanbing,2,wenbaoyebanbing,4,yuanbanbing,True,0.9886918,0.0009971358,0.0050015617,0.0017388996,0.0035705913
+../../data/corn/test/dabanbing/dabanbing (176).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.95244133,0.0019890754,0.00855355,0.031806495,0.0052095093
+../../data/corn/test/dabanbing/dabanbing (181).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.5017485,0.055586975,0.0456047,0.33703294,0.06002687
+../../data/corn/test/dabanbing/dabanbing (182).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.67554575,0.017788416,0.018812759,0.22794892,0.059904154
+../../data/corn/test/dabanbing/dabanbing (183).JPG,0,debanbing,0,debanbing,1,healthy,3,xiubing,True,0.8402924,0.05807861,0.03936043,0.05010588,0.012162621
+../../data/corn/test/dabanbing/dabanbing (188).JPG,0,debanbing,0,debanbing,4,yuanbanbing,3,xiubing,True,0.9881242,0.0004562334,0.0009738085,0.004087788,0.006358073
+../../data/corn/test/dabanbing/dabanbing (195).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.9648426,0.001487948,0.0061547994,0.016803298,0.010711337
+../../data/corn/test/dabanbing/dabanbing (197).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.98513144,0.002051362,0.0038843348,0.004758921,0.0041739712
+../../data/corn/test/dabanbing/dabanbing (202).JPG,0,debanbing,0,debanbing,4,yuanbanbing,3,xiubing,True,0.84421253,0.009108152,0.025941256,0.04666852,0.07406951
+../../data/corn/test/dabanbing/dabanbing (204).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.991573,0.0010769054,0.0024401334,0.0041653346,0.00074468536
+../../data/corn/test/dabanbing/dabanbing (209).JPG,0,debanbing,0,debanbing,4,yuanbanbing,2,wenbaoyebanbing,True,0.89553213,0.023749286,0.024850301,0.015139476,0.040728863
+../../data/corn/test/dabanbing/dabanbing (212).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.9597155,0.0028484701,0.0034403803,0.022336079,0.011659664
+../../data/corn/test/dabanbing/dabanbing (213).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.9937084,0.0005554789,0.0004343561,0.002988218,0.0023135466
+../../data/corn/test/dabanbing/dabanbing (214).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.95271033,0.0027947833,0.011486883,0.019735806,0.01327217
+../../data/corn/test/dabanbing/dabanbing (216).JPG,0,debanbing,0,debanbing,4,yuanbanbing,2,wenbaoyebanbing,True,0.9182623,0.008708737,0.020257555,0.017061403,0.03571002
+../../data/corn/test/dabanbing/dabanbing (218).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.9008107,0.016049316,0.008553294,0.058076408,0.016510209
+../../data/corn/test/dabanbing/dabanbing (220).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.98740584,0.0010816337,0.004271966,0.005379874,0.0018606831
+../../data/corn/test/dabanbing/dabanbing (222).JPG,0,debanbing,0,debanbing,2,wenbaoyebanbing,4,yuanbanbing,True,0.82188636,0.01661516,0.077726044,0.033194244,0.05057823
+../../data/corn/test/dabanbing/dabanbing (224).JPG,0,debanbing,0,debanbing,2,wenbaoyebanbing,4,yuanbanbing,True,0.95913213,0.0018795582,0.017224966,0.007427019,0.014336326
+../../data/corn/test/dabanbing/dabanbing (228).JPG,0,debanbing,0,debanbing,4,yuanbanbing,3,xiubing,True,0.9885831,0.000909642,0.00202962,0.0038324287,0.0046452037
+../../data/corn/test/dabanbing/dabanbing (230).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.8297389,0.0017281463,0.010522505,0.14550953,0.012500863
+../../data/corn/test/dabanbing/dabanbing (234).JPG,0,debanbing,0,debanbing,4,yuanbanbing,2,wenbaoyebanbing,True,0.72531754,0.045508638,0.070421875,0.023609342,0.13514255
+../../data/corn/test/dabanbing/dabanbing (238).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.8843488,0.026318692,0.025992302,0.03168839,0.03165184
+../../data/corn/test/dabanbing/dabanbing (239).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.9636387,0.0020045694,0.0036030598,0.027367903,0.0033858237
+../../data/corn/test/dabanbing/dabanbing (245).JPG,0,debanbing,0,debanbing,4,yuanbanbing,2,wenbaoyebanbing,True,0.8281927,0.027183492,0.05263641,0.01501313,0.07697429
+../../data/corn/test/dabanbing/dabanbing (247).JPG,0,debanbing,0,debanbing,4,yuanbanbing,1,healthy,True,0.5964226,0.08959893,0.040227372,0.06101551,0.21273561
+../../data/corn/test/dabanbing/dabanbing (249).JPG,0,debanbing,0,debanbing,4,yuanbanbing,3,xiubing,True,0.7651275,0.028368877,0.02762716,0.07952188,0.09935462
+../../data/corn/test/dabanbing/dabanbing (253).JPG,0,debanbing,0,debanbing,2,wenbaoyebanbing,4,yuanbanbing,True,0.9386478,0.0032028265,0.026015198,0.013914077,0.018220186
+../../data/corn/test/dabanbing/dabanbing (258).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.7253862,0.0068979403,0.053969737,0.18585329,0.02789292
+../../data/corn/test/dabanbing/dabanbing (259).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.92401904,0.0025522094,0.00873793,0.06049816,0.0041927365
+../../data/corn/test/dabanbing/dabanbing (260).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.89512277,0.009983368,0.023439327,0.044990852,0.026463656
+../../data/corn/test/dabanbing/dabanbing (261).JPG,0,debanbing,0,debanbing,4,yuanbanbing,3,xiubing,True,0.9957913,4.537247e-05,0.00035661214,0.0013364063,0.0024703583
+../../data/corn/test/dabanbing/dabanbing (263).JPG,0,debanbing,0,debanbing,2,wenbaoyebanbing,1,healthy,True,0.44964534,0.123701096,0.31752512,0.01138908,0.09773937
+../../data/corn/test/dabanbing/dabanbing (269).JPG,0,debanbing,0,debanbing,4,yuanbanbing,2,wenbaoyebanbing,True,0.95157886,0.0023181112,0.0131982975,0.011432414,0.021472339
+../../data/corn/test/dabanbing/dabanbing (270).JPG,0,debanbing,0,debanbing,3,xiubing,1,healthy,True,0.5463407,0.13417955,0.08771502,0.19005199,0.041712765
+../../data/corn/test/dabanbing/dabanbing (272).JPG,0,debanbing,0,debanbing,2,wenbaoyebanbing,4,yuanbanbing,True,0.96787405,0.0016539812,0.017194092,0.005549815,0.0077279718
+../../data/corn/test/dabanbing/dabanbing (273).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.7451869,0.023219332,0.049347866,0.12374014,0.05850569
+../../data/corn/test/dabanbing/dabanbing (276).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.976937,0.0021828886,0.0053240834,0.008209736,0.007346345
+../../data/corn/test/dabanbing/dabanbing (277).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.9559237,0.0013148608,0.011117886,0.021694714,0.009948815
+../../data/corn/test/dabanbing/dabanbing (278).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.68370986,0.0004932666,0.008395747,0.30244562,0.004955475
+../../data/corn/test/dabanbing/dabanbing (282).JPG,0,debanbing,0,debanbing,4,yuanbanbing,3,xiubing,True,0.9930027,0.00021051559,0.0009760253,0.0026225774,0.0031881626
+../../data/corn/test/dabanbing/dabanbing (286).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.9201307,0.004210769,0.015315554,0.045717847,0.014625196
+../../data/corn/test/dabanbing/dabanbing (287).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.97938985,0.002770244,0.003402899,0.012706039,0.0017310848
+../../data/corn/test/dabanbing/dabanbing (288).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.9767705,0.00086323504,0.005480307,0.014454232,0.0024316998
+../../data/corn/test/dabanbing/dabanbing (290).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.9483408,0.008917702,0.009138238,0.023603927,0.009999414
+../../data/corn/test/dabanbing/dabanbing (291).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.9848221,0.0010691023,0.004881892,0.0064870934,0.002739909
+../../data/corn/test/dabanbing/dabanbing (292).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.852046,0.013771424,0.015686559,0.08875823,0.029737838
+../../data/corn/test/dabanbing/dabanbing (295).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.9305969,0.011937392,0.017525142,0.03413946,0.005801052
+../../data/corn/test/dabanbing/dabanbing (296).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.8673018,0.0022728248,0.025727376,0.09587505,0.008822886
+../../data/corn/test/dabanbing/dabanbing (301).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.99012566,0.001324539,0.0015650188,0.005526471,0.0014582467
+../../data/corn/test/dabanbing/dabanbing (304).JPG,0,debanbing,0,debanbing,2,wenbaoyebanbing,3,xiubing,True,0.56983536,0.04260844,0.21795502,0.109814316,0.05978681
+../../data/corn/test/dabanbing/dabanbing (306).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.9681742,0.0011596438,0.003274624,0.025507336,0.0018841256
+../../data/corn/test/dabanbing/dabanbing (307).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.95858765,0.00031377326,0.010890069,0.02718305,0.0030254766
+../../data/corn/test/dabanbing/dabanbing (309).JPG,0,debanbing,0,debanbing,4,yuanbanbing,2,wenbaoyebanbing,True,0.9795888,0.00095935864,0.0064843353,0.0027233034,0.010244149
+../../data/corn/test/dabanbing/dabanbing (310).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.8498978,0.011273043,0.036514733,0.084344186,0.017970312
+../../data/corn/test/dabanbing/dabanbing (311).JPG,0,debanbing,0,debanbing,4,yuanbanbing,2,wenbaoyebanbing,True,0.83450884,0.014173829,0.0154224485,0.00461598,0.13127886
+../../data/corn/test/dabanbing/dabanbing (312).JPG,0,debanbing,0,debanbing,4,yuanbanbing,1,healthy,True,0.31594983,0.21529298,0.16393013,0.04823098,0.25659612
+../../data/corn/test/dabanbing/dabanbing (313).JPG,0,debanbing,0,debanbing,2,wenbaoyebanbing,3,xiubing,True,0.9502405,0.0015254666,0.019685853,0.016224187,0.012324039
+../../data/corn/test/dabanbing/dabanbing (314).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.9431745,0.0019033668,0.009545735,0.0398429,0.0055334615
+../../data/corn/test/dabanbing/dabanbing (316).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.86010957,0.0017830307,0.009675144,0.12372818,0.00470412
+../../data/corn/test/dabanbing/dabanbing (317).JPG,0,debanbing,0,debanbing,4,yuanbanbing,2,wenbaoyebanbing,True,0.93273747,0.0077033844,0.019892978,0.011724671,0.027941477
+../../data/corn/test/dabanbing/dabanbing (323).JPG,0,debanbing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.31269667,0.0035102526,0.018541258,0.6553273,0.009924563
+../../data/corn/test/dabanbing/dabanbing (324).JPG,0,debanbing,0,debanbing,2,wenbaoyebanbing,4,yuanbanbing,True,0.88447046,0.022669272,0.040984947,0.0188324,0.033042952
+../../data/corn/test/dabanbing/dabanbing (325).JPG,0,debanbing,0,debanbing,4,yuanbanbing,3,xiubing,True,0.9488124,0.006988848,0.0109228,0.015444465,0.01783152
+../../data/corn/test/dabanbing/dabanbing (326).JPG,0,debanbing,0,debanbing,3,xiubing,1,healthy,True,0.95116204,0.014625181,0.012613047,0.015954338,0.005645338
+../../data/corn/test/dabanbing/dabanbing (327).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.97815734,0.00062028726,0.003535297,0.013530404,0.00415677
+../../data/corn/test/dabanbing/dabanbing (328).JPG,0,debanbing,0,debanbing,2,wenbaoyebanbing,4,yuanbanbing,True,0.91869503,0.016082274,0.028519602,0.012274811,0.024428222
+../../data/corn/test/dabanbing/dabanbing (332).JPG,0,debanbing,0,debanbing,4,yuanbanbing,3,xiubing,True,0.97034305,0.0053532114,0.0037213066,0.005413543,0.015168936
+../../data/corn/test/dabanbing/dabanbing (333).JPG,0,debanbing,0,debanbing,4,yuanbanbing,3,xiubing,True,0.77864534,0.03726571,0.052835155,0.06175085,0.06950291
+../../data/corn/test/dabanbing/dabanbing (334).JPG,0,debanbing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.45126155,0.0035336288,0.02270968,0.5079539,0.0145412665
+../../data/corn/test/dabanbing/dabanbing (335).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.97697824,0.0023934084,0.004687827,0.009589227,0.006351264
+../../data/corn/test/dabanbing/dabanbing (338).JPG,0,debanbing,0,debanbing,2,wenbaoyebanbing,4,yuanbanbing,True,0.7080864,0.055405565,0.1500424,0.015689272,0.07077642
+../../data/corn/test/dabanbing/dabanbing (341).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.6839339,0.0021568427,0.007778516,0.30282128,0.0033095407
+../../data/corn/test/dabanbing/dabanbing (344).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.97938675,0.0016857033,0.0027491243,0.011311051,0.0048673423
+../../data/corn/test/dabanbing/dabanbing (346).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.9901446,0.00024203301,0.00084452133,0.008307934,0.00046091157
+../../data/corn/test/dabanbing/dabanbing (347).JPG,0,debanbing,0,debanbing,4,yuanbanbing,2,wenbaoyebanbing,True,0.9695957,0.002139476,0.00852174,0.005118696,0.014624485
+../../data/corn/test/dabanbing/dabanbing (348).JPG,0,debanbing,0,debanbing,3,xiubing,1,healthy,True,0.94347227,0.011105598,0.009674703,0.025195051,0.010552339
+../../data/corn/test/dabanbing/dabanbing (349).JPG,0,debanbing,0,debanbing,3,xiubing,2,wenbaoyebanbing,True,0.96964306,0.0025357916,0.009020883,0.0121570965,0.0066430876
+../../data/corn/test/dabanbing/dabanbing (351).JPG,0,debanbing,0,debanbing,4,yuanbanbing,3,xiubing,True,0.8641416,0.012069925,0.008191318,0.033031218,0.08256585
+../../data/corn/test/dabanbing/dabanbing (352).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.9591071,0.0018274895,0.00511325,0.026094094,0.007857948
+../../data/corn/test/dabanbing/dabanbing (353).JPG,0,debanbing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.92423445,0.0077779954,0.013174102,0.034529034,0.020284386
+../../data/corn/test/dabanbing/dabanbing (354).JPG,0,debanbing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.44255763,0.015947592,0.038828894,0.45730275,0.045363147
+../../data/corn/test/healthy/jiankang (237).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0008326115,0.8814135,0.10298801,0.0024043864,0.0123615535
+../../data/corn/test/healthy/jiankang (238).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,3,xiubing,True,0.0011118968,0.9296118,0.052971512,0.008471722,0.00783303
+../../data/corn/test/healthy/jiankang (241).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0010814307,0.9551547,0.02123989,0.0034117196,0.019112278
+../../data/corn/test/healthy/jiankang (242).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.008061242,0.72512066,0.16992381,0.022556104,0.07433814
+../../data/corn/test/healthy/jiankang (243).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.000895666,0.9762389,0.017318858,0.001735179,0.0038114388
+../../data/corn/test/healthy/jiankang (245).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.007149792,0.73664874,0.18711579,0.016277423,0.05280824
+../../data/corn/test/healthy/jiankang (246).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.00022384235,0.9916732,0.0035103888,0.0016614805,0.0029310472
+../../data/corn/test/healthy/jiankang (252).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.000717904,0.947773,0.03229439,0.00091812556,0.01829665
+../../data/corn/test/healthy/jiankang (273).jpg,1,healthy,1,healthy,4,yuanbanbing,2,wenbaoyebanbing,True,0.0008976055,0.98561203,0.0033058445,0.0027070825,0.0074775135
+../../data/corn/test/healthy/jiankang (282).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0021654924,0.9544191,0.026668176,0.005623366,0.011123848
+../../data/corn/test/healthy/jiankang (284).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0011863251,0.94139385,0.03322465,0.0040539457,0.020141218
+../../data/corn/test/healthy/jiankang (285).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0008139763,0.9391223,0.041627523,0.003480324,0.014955791
+../../data/corn/test/healthy/jiankang (286).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0013256713,0.95191896,0.02818502,0.0041945213,0.014375891
+../../data/corn/test/healthy/jiankang (287).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.001491259,0.9157766,0.057744704,0.004059227,0.020928228
+../../data/corn/test/healthy/jiankang (288).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0017307708,0.9400692,0.03774651,0.0017277882,0.018725628
+../../data/corn/test/healthy/jiankang (291).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.00038993612,0.97933185,0.014011241,0.0019028207,0.004364145
+../../data/corn/test/healthy/jiankang (292).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.00017877985,0.98436975,0.010375478,0.00085740053,0.004218537
+../../data/corn/test/healthy/jiankang (294).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.004299972,0.94238,0.019566556,0.0148742655,0.01887922
+../../data/corn/test/healthy/jiankang (295).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0010478302,0.9662769,0.021318892,0.0030728967,0.0082835555
+../../data/corn/test/healthy/jiankang (296).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.00054310577,0.97805256,0.014302246,0.0011763741,0.005925728
+../../data/corn/test/healthy/jiankang (297).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0021964347,0.9205659,0.04713123,0.007971378,0.02213507
+../../data/corn/test/healthy/jiankang (298).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.00069420587,0.9535938,0.037423342,0.0021354924,0.006153192
+../../data/corn/test/healthy/jiankang (301).jpg,1,healthy,1,healthy,4,yuanbanbing,2,wenbaoyebanbing,True,0.0025890667,0.9812207,0.0068358174,0.0017780984,0.007576369
+../../data/corn/test/healthy/jiankang (302).jpg,1,healthy,1,healthy,4,yuanbanbing,2,wenbaoyebanbing,True,0.013358569,0.92505807,0.018941388,0.012326557,0.03031532
+../../data/corn/test/healthy/jiankang (306).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.00081156834,0.9850284,0.0068076425,0.0015739724,0.0057784114
+../../data/corn/test/healthy/jiankang (307).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.002617602,0.9130058,0.04449186,0.0068652406,0.033019494
+../../data/corn/test/healthy/jiankang (309).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0018103376,0.8940613,0.07325605,0.004404956,0.026467359
+../../data/corn/test/healthy/jiankang (311).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.002905586,0.9199522,0.047766004,0.0051946747,0.024181511
+../../data/corn/test/healthy/jiankang (313).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0018048321,0.9519051,0.023436414,0.0075683603,0.015285329
+../../data/corn/test/healthy/jiankang (314).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.00052866276,0.9810666,0.01094152,0.0013892755,0.0060739517
+../../data/corn/test/healthy/jiankang (318).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0026053183,0.9145345,0.06644287,0.004741109,0.011676176
+../../data/corn/test/healthy/jiankang (319).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0020561274,0.9727314,0.015163111,0.0018555998,0.008193828
+../../data/corn/test/healthy/jiankang (321).jpg,1,healthy,1,healthy,4,yuanbanbing,2,wenbaoyebanbing,True,0.00263994,0.9209614,0.03205821,0.003890586,0.040449884
+../../data/corn/test/healthy/jiankang (322).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0028958023,0.846533,0.09912576,0.006332486,0.045112956
+../../data/corn/test/healthy/jiankang (323).jpg,1,healthy,1,healthy,3,xiubing,2,wenbaoyebanbing,True,0.005642086,0.97718424,0.0059222435,0.00781397,0.0034374602
+../../data/corn/test/healthy/jiankang (324).jpg,1,healthy,1,healthy,4,yuanbanbing,2,wenbaoyebanbing,True,0.0038957936,0.9785164,0.0062116985,0.0049925013,0.006383537
+../../data/corn/test/healthy/jiankang (325).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,3,xiubing,True,0.01262091,0.9253988,0.024935244,0.023743564,0.013301497
+../../data/corn/test/healthy/jiankang (326).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.012193623,0.8583075,0.06468998,0.022873633,0.041935273
+../../data/corn/test/healthy/jiankang (327).jpg,1,healthy,1,healthy,4,yuanbanbing,2,wenbaoyebanbing,True,0.0076138508,0.958639,0.011010925,0.002931283,0.019804923
+../../data/corn/test/healthy/jiankang (329).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0015181873,0.9839572,0.006621388,0.0033166301,0.004586523
+../../data/corn/test/healthy/jiankang (330).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0012092582,0.9877984,0.0051369485,0.0020354523,0.0038199488
+../../data/corn/test/healthy/jiankang (331).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,0,debanbing,True,0.008993094,0.9595062,0.018473012,0.0053584035,0.0076691452
+../../data/corn/test/healthy/jiankang (332).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0018726861,0.97569466,0.0114339385,0.0032182173,0.007780459
+../../data/corn/test/healthy/jiankang (334).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.011498604,0.8216828,0.06909927,0.031219877,0.06649944
+../../data/corn/test/healthy/jiankang (348).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0027639866,0.84998953,0.09976611,0.010527884,0.03695253
+../../data/corn/test/healthy/jiankang (349).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.005452575,0.8973623,0.06181564,0.0133265415,0.022043005
+../../data/corn/test/healthy/jiankang (350).jpg,1,healthy,1,healthy,4,yuanbanbing,2,wenbaoyebanbing,True,0.00676613,0.87393594,0.03587813,0.010772311,0.07264743
+../../data/corn/test/healthy/jiankang (351).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.00047595784,0.98538697,0.009024486,0.0019544917,0.0031580394
+../../data/corn/test/healthy/jiankang (352).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0051130718,0.8907377,0.047975957,0.018187977,0.03798522
+../../data/corn/test/healthy/jiankang (354).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0071401787,0.88937944,0.058481794,0.013112863,0.0318858
+../../data/corn/test/healthy/jiankang (358).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0059556356,0.894266,0.06266978,0.013509699,0.023598814
+../../data/corn/test/healthy/jiankang (362).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0051127095,0.9101517,0.042311575,0.014572796,0.02785125
+../../data/corn/test/healthy/jiankang (363).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.006857352,0.9026534,0.04149013,0.020330891,0.028668184
+../../data/corn/test/healthy/jiankang (364).jpg,1,healthy,1,healthy,4,yuanbanbing,2,wenbaoyebanbing,True,0.0011450442,0.9783301,0.0074201445,0.0022208346,0.010883923
+../../data/corn/test/healthy/jiankang (369).jpg,1,healthy,1,healthy,4,yuanbanbing,2,wenbaoyebanbing,True,0.0012502337,0.9710499,0.0065806643,0.005334493,0.015784731
+../../data/corn/test/healthy/jiankang (370).jpg,1,healthy,1,healthy,4,yuanbanbing,2,wenbaoyebanbing,True,0.0007186734,0.986264,0.004028606,0.0034410667,0.005547697
+../../data/corn/test/healthy/jiankang (372).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.00033709532,0.98864996,0.006259622,0.001063751,0.0036895226
+../../data/corn/test/healthy/jiankang (373).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.00068549474,0.977983,0.014171058,0.003045211,0.00411522
+../../data/corn/test/healthy/jiankang (374).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0002940601,0.9861661,0.007202155,0.0019096181,0.0044280197
+../../data/corn/test/healthy/jiankang (375).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0010652865,0.95381397,0.026939265,0.004102925,0.014078641
+../../data/corn/test/healthy/jiankang (376).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0011709764,0.95578974,0.022566771,0.003818864,0.016653592
+../../data/corn/test/healthy/jiankang (378).jpg,1,healthy,1,healthy,4,yuanbanbing,0,debanbing,True,0.00941722,0.93384963,0.0040801885,0.0020237009,0.050629172
+../../data/corn/test/healthy/jiankang (379).jpg,1,healthy,1,healthy,4,yuanbanbing,2,wenbaoyebanbing,True,0.004104435,0.95505965,0.012794731,0.0041862326,0.023854893
+../../data/corn/test/healthy/jiankang (380).jpg,1,healthy,1,healthy,4,yuanbanbing,2,wenbaoyebanbing,True,0.006760175,0.96178555,0.0088986885,0.0038894701,0.018666035
+../../data/corn/test/healthy/jiankang (382).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.004381199,0.966589,0.012556027,0.0056605563,0.010813179
+../../data/corn/test/healthy/jiankang (383).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0045928946,0.9424494,0.024676729,0.006592854,0.021688187
+../../data/corn/test/healthy/jiankang (386).jpg,1,healthy,1,healthy,4,yuanbanbing,2,wenbaoyebanbing,True,0.0071336115,0.9212859,0.028202048,0.0150995795,0.028278733
+../../data/corn/test/healthy/jiankang (387).jpg,1,healthy,1,healthy,4,yuanbanbing,2,wenbaoyebanbing,True,0.0036934726,0.9353113,0.017057806,0.01346522,0.03047217
+../../data/corn/test/healthy/jiankang (390).jpg,1,healthy,1,healthy,4,yuanbanbing,2,wenbaoyebanbing,True,0.0046414114,0.96080786,0.014135331,0.0036508518,0.016764473
+../../data/corn/test/healthy/jiankang (392).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.001303071,0.99033195,0.0034456593,0.0019939474,0.0029252581
+../../data/corn/test/healthy/jiankang (394).jpg,1,healthy,1,healthy,4,yuanbanbing,2,wenbaoyebanbing,True,0.00055487343,0.9925591,0.0014690539,0.0010146627,0.004402409
+../../data/corn/test/healthy/jiankang (396).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0039018777,0.95217377,0.018845499,0.006634277,0.018444534
+../../data/corn/test/healthy/jiankang (402).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.00067884667,0.9906198,0.0036965127,0.0024165604,0.002588232
+../../data/corn/test/healthy/jiankang (403).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0006686769,0.96868914,0.023200218,0.0014939364,0.0059480164
+../../data/corn/test/healthy/jiankang (406).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0023198149,0.9609329,0.016239159,0.0053583654,0.015149666
+../../data/corn/test/healthy/jiankang (407).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0012433394,0.97964853,0.010617992,0.002063502,0.0064265113
+../../data/corn/test/healthy/jiankang (416).jpg,1,healthy,1,healthy,4,yuanbanbing,2,wenbaoyebanbing,True,0.006680804,0.9249377,0.023838883,0.016095104,0.028447475
+../../data/corn/test/healthy/jiankang (417).jpg,1,healthy,1,healthy,4,yuanbanbing,3,xiubing,True,0.0075321463,0.7984902,0.032915805,0.038139902,0.12292189
+../../data/corn/test/healthy/jiankang (418).jpg,1,healthy,1,healthy,4,yuanbanbing,2,wenbaoyebanbing,True,0.0054085413,0.9719891,0.0062404927,0.0028718382,0.013490029
+../../data/corn/test/healthy/jiankang (421).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.0018063213,0.9869774,0.0055424925,0.002032662,0.0036411404
+../../data/corn/test/healthy/jiankang (423).jpg,1,healthy,1,healthy,4,yuanbanbing,2,wenbaoyebanbing,True,0.008209824,0.92146283,0.02209191,0.012984934,0.035250567
+../../data/corn/test/healthy/jiankang (426).jpg,1,healthy,1,healthy,4,yuanbanbing,2,wenbaoyebanbing,True,0.0052069398,0.969874,0.009533016,0.003989957,0.0113960365
+../../data/corn/test/healthy/jiankang (430).jpg,1,healthy,1,healthy,4,yuanbanbing,2,wenbaoyebanbing,True,0.0011393718,0.9787562,0.008567537,0.0018202926,0.009716627
+../../data/corn/test/healthy/jiankang (445).jpg,1,healthy,2,wenbaoyebanbing,0,debanbing,1,healthy,True,0.23775133,0.13450022,0.5484635,0.028309537,0.05097542
+../../data/corn/test/healthy/jiankang (456).jpg,1,healthy,2,wenbaoyebanbing,1,healthy,0,debanbing,True,0.16932034,0.16990528,0.5314551,0.060278922,0.06904033
+../../data/corn/test/healthy/jiankang (461).jpg,1,healthy,2,wenbaoyebanbing,1,healthy,3,xiubing,True,0.11080864,0.29689348,0.41657135,0.16286412,0.012862426
+../../data/corn/test/healthy/jiankang (462).jpg,1,healthy,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.06387991,0.4288957,0.34898117,0.030551296,0.12769194
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (101).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.008064065,0.028338294,0.6744497,0.005642734,0.28350526
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (102).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.0054508788,0.16440015,0.60774857,0.019314265,0.20308612
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (103).png,2,wenbaoyebanbing,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.016559381,0.5280996,0.30706587,0.04505876,0.10321637
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (104).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.027445957,0.029813701,0.831024,0.028822064,0.082894266
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (105).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.013872813,0.03289163,0.8695143,0.003775791,0.07994538
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (106).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.0006710368,0.003941056,0.98234105,0.0014243976,0.011622419
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (107).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.0020111138,0.007402321,0.97598004,0.0023701459,0.012236385
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (108).png,2,wenbaoyebanbing,4,yuanbanbing,2,wenbaoyebanbing,0,debanbing,True,0.029185684,0.022696786,0.2592252,0.0059659495,0.68292636
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (109).png,2,wenbaoyebanbing,2,wenbaoyebanbing,3,xiubing,4,yuanbanbing,True,0.03537526,0.038093388,0.8317202,0.05383651,0.04097468
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (110).png,2,wenbaoyebanbing,1,healthy,2,wenbaoyebanbing,0,debanbing,True,0.107299455,0.40764132,0.3982018,0.007005864,0.0798515
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (111).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.0010621063,0.0030891907,0.98668087,0.0011357617,0.008032
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (112).png,2,wenbaoyebanbing,2,wenbaoyebanbing,1,healthy,4,yuanbanbing,True,0.0009993267,0.15695234,0.79634726,0.007409582,0.038291544
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (113).png,2,wenbaoyebanbing,2,wenbaoyebanbing,1,healthy,4,yuanbanbing,True,0.0041329446,0.34614128,0.51628345,0.008764995,0.12467732
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (114).png,2,wenbaoyebanbing,2,wenbaoyebanbing,1,healthy,4,yuanbanbing,True,0.00035924822,0.01570832,0.9675724,0.0012007006,0.015159264
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (115).png,2,wenbaoyebanbing,2,wenbaoyebanbing,1,healthy,4,yuanbanbing,True,0.0038427128,0.11704447,0.8221009,0.009398406,0.047613546
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (116).png,2,wenbaoyebanbing,2,wenbaoyebanbing,0,debanbing,4,yuanbanbing,True,0.16040647,0.017833797,0.61978006,0.045636326,0.15634336
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (117).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.0023526808,0.022996621,0.92179114,0.003036282,0.049823325
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (118).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.013214853,0.020095149,0.9269788,0.010653742,0.029057425
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (119).png,2,wenbaoyebanbing,2,wenbaoyebanbing,1,healthy,4,yuanbanbing,True,0.0025560027,0.3251128,0.4959432,0.0073295925,0.1690584
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (120).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.004282584,0.008615814,0.96515936,0.0031471476,0.018795058
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (121).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,3,xiubing,True,0.007673859,0.012966061,0.8749943,0.04670239,0.0576634
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (122).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.030415801,0.040694606,0.6777616,0.0017907416,0.24933721
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (123).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.0032498685,0.0114053385,0.7769192,0.008935031,0.19949062
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (124).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,0,debanbing,True,0.030522063,0.023415312,0.8543702,0.024839178,0.06685329
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (125).png,2,wenbaoyebanbing,2,wenbaoyebanbing,1,healthy,4,yuanbanbing,True,0.030798383,0.23035733,0.52407455,0.06615208,0.1486176
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (126).png,2,wenbaoyebanbing,0,debanbing,2,wenbaoyebanbing,1,healthy,True,0.5479977,0.14457719,0.23773848,0.034107488,0.035579097
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (127).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.004138687,0.022585811,0.87249213,0.010784711,0.089998625
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (128).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.005909852,0.11567875,0.67351115,0.009887772,0.19501247
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (129).png,2,wenbaoyebanbing,2,wenbaoyebanbing,1,healthy,4,yuanbanbing,True,0.036093816,0.21979015,0.65993303,0.037531935,0.046651017
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (130).png,2,wenbaoyebanbing,1,healthy,2,wenbaoyebanbing,4,yuanbanbing,True,0.005112118,0.57648313,0.3011814,0.016674737,0.10054861
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (131).png,2,wenbaoyebanbing,2,wenbaoyebanbing,1,healthy,4,yuanbanbing,True,0.002193971,0.34794575,0.6010057,0.016106954,0.032747593
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (132).png,2,wenbaoyebanbing,2,wenbaoyebanbing,1,healthy,3,xiubing,True,0.0035500387,0.052890897,0.88340706,0.04161521,0.018536821
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (133).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.022950336,0.048229642,0.86729175,0.005067366,0.05646089
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (134).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.005988846,0.053750597,0.874556,0.006400805,0.059303824
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (135).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.039462388,0.08783826,0.71465826,0.035215378,0.122825734
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (136).png,2,wenbaoyebanbing,2,wenbaoyebanbing,0,debanbing,4,yuanbanbing,True,0.11746079,0.016717723,0.7971674,0.030204382,0.038449723
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (137).png,2,wenbaoyebanbing,2,wenbaoyebanbing,1,healthy,4,yuanbanbing,True,0.0018132239,0.018558763,0.96191615,0.0019026239,0.015809225
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (138).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.0011477506,0.017733816,0.9428898,0.0022840905,0.035944562
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (139).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.00030595998,0.004641112,0.9788942,0.0010546494,0.015104086
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (140).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,0,debanbing,True,0.0232766,0.007978244,0.8512452,0.0048801964,0.11261967
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (141).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.001747476,0.0036969115,0.9285539,0.0012029129,0.06479884
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (142).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.0017716197,0.008514787,0.9396328,0.0026910352,0.047389872
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (143).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.008330831,0.02693359,0.8925745,0.014266564,0.057894465
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (144).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.0036581075,0.010623663,0.9406713,0.0051275147,0.03991933
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (145).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.006203766,0.020057492,0.9128753,0.011487865,0.049375586
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (146).png,2,wenbaoyebanbing,2,wenbaoyebanbing,1,healthy,4,yuanbanbing,True,0.0016838593,0.20754202,0.71307224,0.0027126486,0.07498926
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (147).png,2,wenbaoyebanbing,2,wenbaoyebanbing,1,healthy,4,yuanbanbing,True,0.0009131603,0.05050895,0.9253887,0.0013309866,0.021858161
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (148).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.01709707,0.030545125,0.9023824,0.010719388,0.039255958
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (149).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.00069589895,0.005498838,0.98380935,0.0009982795,0.008997592
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (150).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.0054054125,0.008870115,0.9597652,0.002787408,0.023171892
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (151).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,3,xiubing,True,0.006101497,0.01018964,0.9353546,0.018023811,0.03033037
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (152).png,2,wenbaoyebanbing,2,wenbaoyebanbing,1,healthy,0,debanbing,True,0.01033513,0.06859276,0.91496223,0.004933712,0.0011761861
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (153).png,2,wenbaoyebanbing,2,wenbaoyebanbing,1,healthy,0,debanbing,True,0.026876673,0.031815235,0.9084953,0.018194662,0.014618077
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (154).png,2,wenbaoyebanbing,2,wenbaoyebanbing,1,healthy,4,yuanbanbing,True,0.012435325,0.16963053,0.642616,0.030511014,0.14480722
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (155).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,0,debanbing,True,0.028715609,0.016054608,0.8967907,0.019613346,0.038825806
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (156).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.005015783,0.11475044,0.7407328,0.016651154,0.12284981
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (157).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.009100264,0.050482117,0.56788224,0.0061426777,0.36639267
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (158).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.0007080836,0.0053877104,0.9791597,0.00060883275,0.014135719
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (159).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.0022613902,0.0072897244,0.9557024,0.003328187,0.031418294
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (160).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.00028625838,0.008541159,0.968089,0.0009815412,0.022102157
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (161).png,2,wenbaoyebanbing,2,wenbaoyebanbing,1,healthy,4,yuanbanbing,True,0.009235347,0.31630117,0.5746569,0.0023502074,0.09745638
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (162).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.002677119,0.01890504,0.93267035,0.0058618654,0.03988564
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (163).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.0037015039,0.042558856,0.8923003,0.005556589,0.055882797
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (164).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.008797195,0.17252223,0.5319472,0.024045674,0.26268774
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (165).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.0012042138,0.0035564664,0.9828705,0.0017046718,0.010664095
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (166).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.0041898186,0.025681177,0.6558634,0.010226144,0.30403948
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (167).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.043694098,0.057417225,0.7222905,0.02539087,0.15120721
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (168).png,2,wenbaoyebanbing,2,wenbaoyebanbing,1,healthy,4,yuanbanbing,True,0.010478906,0.14612068,0.75571233,0.0130836265,0.07460443
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (169).png,2,wenbaoyebanbing,2,wenbaoyebanbing,0,debanbing,4,yuanbanbing,True,0.30537215,0.029760243,0.58988935,0.03295653,0.042021755
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (170).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.0025294828,0.010927507,0.9390209,0.0034162025,0.04410598
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (171).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.0048123905,0.0125008505,0.9456204,0.0057699224,0.03129648
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (172).png,2,wenbaoyebanbing,2,wenbaoyebanbing,1,healthy,4,yuanbanbing,True,0.030798383,0.23035733,0.52407455,0.06615208,0.1486176
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (173).png,2,wenbaoyebanbing,2,wenbaoyebanbing,1,healthy,4,yuanbanbing,True,0.036093816,0.21979015,0.65993303,0.037531935,0.046651017
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (174).png,2,wenbaoyebanbing,2,wenbaoyebanbing,3,xiubing,0,debanbing,True,0.07678251,0.0073605836,0.7922922,0.105509445,0.018055273
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (175).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.0018565344,0.015995424,0.95737755,0.0033283595,0.021442229
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (176).png,2,wenbaoyebanbing,2,wenbaoyebanbing,1,healthy,4,yuanbanbing,True,0.0040491233,0.077553,0.8362252,0.006345194,0.075827554
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (177).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.0020111138,0.007402321,0.97598004,0.0023701459,0.012236385
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (178).png,2,wenbaoyebanbing,1,healthy,2,wenbaoyebanbing,0,debanbing,True,0.107299455,0.40764132,0.3982018,0.007005864,0.0798515
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (179).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.013214853,0.020095149,0.9269788,0.010653742,0.029057425
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (180).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.030415801,0.040694606,0.6777616,0.0017907416,0.24933721
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (181).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.0032498685,0.0114053385,0.7769192,0.008935031,0.19949062
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (182).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,0,debanbing,True,0.030522063,0.023415312,0.8543702,0.024839178,0.06685329
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (183).png,2,wenbaoyebanbing,2,wenbaoyebanbing,1,healthy,4,yuanbanbing,True,0.030798383,0.23035733,0.52407455,0.06615208,0.1486176
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (184).png,2,wenbaoyebanbing,0,debanbing,2,wenbaoyebanbing,1,healthy,True,0.5479977,0.14457719,0.23773848,0.034107488,0.035579097
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (185).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.004138687,0.022585811,0.87249213,0.010784711,0.089998625
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (186).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.005909852,0.11567875,0.67351115,0.009887772,0.19501247
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (187).png,2,wenbaoyebanbing,2,wenbaoyebanbing,1,healthy,4,yuanbanbing,True,0.036093816,0.21979015,0.65993303,0.037531935,0.046651017
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (188).png,2,wenbaoyebanbing,2,wenbaoyebanbing,1,healthy,4,yuanbanbing,True,0.0020182151,0.40138257,0.5315134,0.0073269554,0.057758898
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (189).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.005988846,0.053750597,0.874556,0.006400805,0.059303824
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (190).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.039462388,0.08783826,0.71465826,0.035215378,0.122825734
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (191).png,2,wenbaoyebanbing,2,wenbaoyebanbing,0,debanbing,4,yuanbanbing,True,0.11746079,0.016717723,0.7971674,0.030204382,0.038449723
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (192).png,2,wenbaoyebanbing,1,healthy,4,yuanbanbing,2,wenbaoyebanbing,True,0.029546637,0.4547509,0.18392417,0.040849954,0.2909283
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (193).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.0014004718,0.026254898,0.7895318,0.006103601,0.17670928
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (194).png,2,wenbaoyebanbing,2,wenbaoyebanbing,1,healthy,4,yuanbanbing,True,0.0018132239,0.018558763,0.96191615,0.0019026239,0.015809225
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (195).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.023513883,0.04439619,0.517506,0.013458767,0.40112516
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (196).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.0011477506,0.017733816,0.9428898,0.0022840905,0.035944562
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (197).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,0,debanbing,True,0.06473096,0.029307038,0.6044194,0.054978207,0.2465644
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (198).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.00030595998,0.004641112,0.9788942,0.0010546494,0.015104086
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (199).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,0,debanbing,True,0.019085685,0.005974191,0.9181062,0.010997775,0.04583617
+../../data/corn/test/wanbaoyebanbing/wanbaoyeban (200).png,2,wenbaoyebanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.06585097,0.16565292,0.41549826,0.03314439,0.31985348
+../../data/corn/test/xiubing/xiubing (214).JPG,3,xiubing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.123528846,0.012603078,0.007324767,0.83605844,0.02048493
+../../data/corn/test/xiubing/xiubing (215).jpg,3,xiubing,3,xiubing,2,wenbaoyebanbing,4,yuanbanbing,True,0.048184182,0.015264488,0.14455748,0.72455853,0.06743543
+../../data/corn/test/xiubing/xiubing (217).jpg,3,xiubing,3,xiubing,0,debanbing,1,healthy,True,0.16387096,0.13288644,0.054310396,0.5359589,0.11297327
+../../data/corn/test/xiubing/xiubing (218).jpg,3,xiubing,3,xiubing,0,debanbing,1,healthy,True,0.048727397,0.017477302,0.007211856,0.920515,0.006068447
+../../data/corn/test/xiubing/xiubing (226).jpg,3,xiubing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.035503328,0.0021037695,0.0077050105,0.943922,0.010765944
+../../data/corn/test/xiubing/xiubing (228).jpg,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.20421207,0.018639887,0.043106686,0.7070536,0.026987744
+../../data/corn/test/xiubing/xiubing (229).JPG,3,xiubing,3,xiubing,4,yuanbanbing,0,debanbing,True,0.075234,0.00805148,0.04725259,0.75810915,0.11135274
+../../data/corn/test/xiubing/xiubing (230).jpg,3,xiubing,3,xiubing,1,healthy,2,wenbaoyebanbing,True,0.0024107562,0.026941946,0.004849217,0.96220434,0.0035937293
+../../data/corn/test/xiubing/xiubing (231).jpg,3,xiubing,3,xiubing,1,healthy,4,yuanbanbing,True,0.013375381,0.03388272,0.014856976,0.9077944,0.03009051
+../../data/corn/test/xiubing/xiubing (232).jpg,3,xiubing,3,xiubing,0,debanbing,1,healthy,True,0.02124298,0.009243103,0.006530096,0.95448315,0.008500723
+../../data/corn/test/xiubing/xiubing (233).jpg,3,xiubing,3,xiubing,4,yuanbanbing,2,wenbaoyebanbing,True,0.060931448,0.06260154,0.1367087,0.47469953,0.26505882
+../../data/corn/test/xiubing/xiubing (237).jpg,3,xiubing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.025027605,0.0017149509,0.008152669,0.9476583,0.017446432
+../../data/corn/test/xiubing/xiubing (238).jpg,3,xiubing,3,xiubing,4,yuanbanbing,2,wenbaoyebanbing,True,0.0063072485,0.006321979,0.011207803,0.95754594,0.01861703
+../../data/corn/test/xiubing/xiubing (239).jpg,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.2511902,0.008671063,0.023005947,0.7103534,0.0067794416
+../../data/corn/test/xiubing/xiubing (245).jpg,3,xiubing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.18707564,0.040638153,0.028385388,0.66253704,0.081363775
+../../data/corn/test/xiubing/xiubing (248).jpg,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.12587817,0.01685284,0.039023772,0.8019705,0.016274692
+../../data/corn/test/xiubing/xiubing (249).jpg,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.1438887,0.0781377,0.1269053,0.59585446,0.05521385
+../../data/corn/test/xiubing/xiubing (251).jpg,3,xiubing,3,xiubing,1,healthy,0,debanbing,True,0.07387857,0.1323114,0.03287865,0.72098804,0.03994331
+../../data/corn/test/xiubing/xiubing (253).jpg,3,xiubing,3,xiubing,4,yuanbanbing,2,wenbaoyebanbing,True,0.01574963,0.0049148765,0.018039007,0.9415128,0.019783657
+../../data/corn/test/xiubing/xiubing (255).JPG,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.06555877,0.018450987,0.036086157,0.84483624,0.035067867
+../../data/corn/test/xiubing/xiubing (256).jpg,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.04160043,0.010337814,0.022280592,0.9105822,0.015198935
+../../data/corn/test/xiubing/xiubing (257).jpg,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.24009293,0.0130856745,0.024166076,0.7078692,0.014786155
+../../data/corn/test/xiubing/xiubing (258).jpg,3,xiubing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.013935312,0.0036901666,0.0066776266,0.96891487,0.006782147
+../../data/corn/test/xiubing/xiubing (261).JPG,3,xiubing,3,xiubing,4,yuanbanbing,1,healthy,True,0.06746422,0.08679518,0.043217175,0.6611865,0.14133699
+../../data/corn/test/xiubing/xiubing (262).jpg,3,xiubing,3,xiubing,2,wenbaoyebanbing,4,yuanbanbing,True,0.03886314,0.027259896,0.045745797,0.8485256,0.03960561
+../../data/corn/test/xiubing/xiubing (267).jpg,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.25072816,0.011084626,0.03791649,0.685505,0.014765777
+../../data/corn/test/xiubing/xiubing (269).jpg,3,xiubing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.0038234657,0.0011145399,0.0023862044,0.9890949,0.0035807681
+../../data/corn/test/xiubing/xiubing (270).jpg,3,xiubing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.27677318,0.10390734,0.101595774,0.4052758,0.1124479
+../../data/corn/test/xiubing/xiubing (271).jpg,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.002134844,0.00031973378,0.00063400425,0.9965037,0.00040761157
+../../data/corn/test/xiubing/xiubing (273).jpg,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.08992017,0.0040824674,0.02839552,0.85403305,0.023568856
+../../data/corn/test/xiubing/xiubing (278).jpg,3,xiubing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.11122166,0.024048714,0.044720165,0.73733395,0.08267549
+../../data/corn/test/xiubing/xiubing (279).jpg,3,xiubing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.10350468,0.027824366,0.025695328,0.790429,0.05254672
+../../data/corn/test/xiubing/xiubing (280).jpg,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.11523687,0.034802463,0.06282736,0.7451553,0.04197797
+../../data/corn/test/xiubing/xiubing (281).jpg,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.004695414,0.000106694875,0.00083334954,0.9936667,0.00069780595
+../../data/corn/test/xiubing/xiubing (283).jpg,3,xiubing,3,xiubing,2,wenbaoyebanbing,4,yuanbanbing,True,0.009997883,0.0028670393,0.022665728,0.94301033,0.021459028
+../../data/corn/test/xiubing/xiubing (284).jpg,3,xiubing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.0055782245,0.00040016876,0.0013706723,0.99020165,0.0024492547
+../../data/corn/test/xiubing/xiubing (286).jpg,3,xiubing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.17222701,0.0051501235,0.0028211456,0.81354094,0.0062607643
+../../data/corn/test/xiubing/xiubing (293).JPG,3,xiubing,3,xiubing,2,wenbaoyebanbing,4,yuanbanbing,True,0.009898336,0.0014905572,0.017817521,0.95914453,0.011649061
+../../data/corn/test/xiubing/xiubing (294).jpg,3,xiubing,3,xiubing,4,yuanbanbing,0,debanbing,True,0.07569148,0.027622916,0.044483434,0.77138925,0.08081294
+../../data/corn/test/xiubing/xiubing (295).JPG,3,xiubing,3,xiubing,2,wenbaoyebanbing,0,debanbing,True,0.12286172,0.036027163,0.13535255,0.5918222,0.113936394
+../../data/corn/test/xiubing/xiubing (296).jpg,3,xiubing,3,xiubing,0,debanbing,1,healthy,True,0.04763156,0.039907325,0.024164787,0.86968577,0.01861051
+../../data/corn/test/xiubing/xiubing (299).jpg,3,xiubing,3,xiubing,4,yuanbanbing,0,debanbing,True,0.013631522,0.012004494,0.012626379,0.94142395,0.02031363
+../../data/corn/test/xiubing/xiubing (301).JPG,3,xiubing,3,xiubing,2,wenbaoyebanbing,0,debanbing,True,0.015583477,0.004928599,0.028124223,0.9412947,0.010068845
+../../data/corn/test/xiubing/xiubing (302).jpg,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.060162064,0.009802705,0.053693544,0.8667674,0.009574315
+../../data/corn/test/xiubing/xiubing (303).JPG,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.05071055,0.0055013164,0.0127065545,0.920757,0.010324634
+../../data/corn/test/xiubing/xiubing (304).jpg,3,xiubing,3,xiubing,4,yuanbanbing,0,debanbing,True,0.018137425,0.006956647,0.011510148,0.9361947,0.027201066
+../../data/corn/test/xiubing/xiubing (310).jpg,3,xiubing,3,xiubing,4,yuanbanbing,1,healthy,True,0.0018085092,0.0022920826,0.0021925222,0.99066716,0.0030396497
+../../data/corn/test/xiubing/xiubing (311).jpg,3,xiubing,3,xiubing,1,healthy,4,yuanbanbing,True,0.12280574,0.14316566,0.051926922,0.5436119,0.13848981
+../../data/corn/test/xiubing/xiubing (313).jpg,3,xiubing,3,xiubing,2,wenbaoyebanbing,0,debanbing,True,0.17924872,0.019463094,0.2186614,0.49148542,0.09114142
+../../data/corn/test/xiubing/xiubing (314).jpg,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.18955696,0.11076294,0.1800271,0.418114,0.10153899
+../../data/corn/test/xiubing/xiubing (319).JPG,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.13083577,0.077220805,0.10780833,0.59661394,0.08752117
+../../data/corn/test/xiubing/xiubing (320).jpg,3,xiubing,3,xiubing,2,wenbaoyebanbing,0,debanbing,True,0.029581351,0.027137868,0.04435009,0.8839648,0.014965923
+../../data/corn/test/xiubing/xiubing (328).jpg,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.036926996,0.0024778289,0.020824509,0.938129,0.0016417019
+../../data/corn/test/xiubing/xiubing (329).jpg,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.018617686,0.006416986,0.010900344,0.9602641,0.0038008436
+../../data/corn/test/xiubing/xiubing (330).JPG,3,xiubing,3,xiubing,4,yuanbanbing,2,wenbaoyebanbing,True,0.007547446,0.0021829493,0.00872671,0.96709263,0.014450247
+../../data/corn/test/xiubing/xiubing (331).jpg,3,xiubing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.054146357,0.011585042,0.019526448,0.88872796,0.026014185
+../../data/corn/test/xiubing/xiubing (333).jpg,3,xiubing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.06270246,0.019258227,0.011262047,0.88626844,0.020508802
+../../data/corn/test/xiubing/xiubing (334).jpg,3,xiubing,3,xiubing,0,debanbing,1,healthy,True,0.018529579,0.009193526,0.0043695094,0.96433187,0.0035755371
+../../data/corn/test/xiubing/xiubing (335).jpg,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.03496032,0.0023685722,0.025999824,0.9271239,0.009547294
+../../data/corn/test/xiubing/xiubing (337).jpg,3,xiubing,3,xiubing,4,yuanbanbing,2,wenbaoyebanbing,True,0.042678326,0.009826232,0.080621414,0.7575948,0.109279186
+../../data/corn/test/xiubing/xiubing (338).JPG,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.11536651,0.009821547,0.05617395,0.7656455,0.05299257
+../../data/corn/test/xiubing/xiubing (340).jpg,3,xiubing,3,xiubing,1,healthy,4,yuanbanbing,True,0.029351812,0.048703354,0.035481215,0.84377545,0.042688124
+../../data/corn/test/xiubing/xiubing (342).jpg,3,xiubing,3,xiubing,2,wenbaoyebanbing,0,debanbing,True,0.12990698,0.10363896,0.19061859,0.4811674,0.094668075
+../../data/corn/test/xiubing/xiubing (343).JPG,3,xiubing,3,xiubing,4,yuanbanbing,0,debanbing,True,0.043749034,0.013027573,0.033527452,0.85486996,0.054826032
+../../data/corn/test/xiubing/xiubing (345).JPG,3,xiubing,3,xiubing,2,wenbaoyebanbing,4,yuanbanbing,True,0.028290203,0.011829133,0.05829115,0.8630288,0.038560655
+../../data/corn/test/xiubing/xiubing (350).jpg,3,xiubing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.17901812,0.060487367,0.05146253,0.62855357,0.08047835
+../../data/corn/test/xiubing/xiubing (351).JPG,3,xiubing,3,xiubing,2,wenbaoyebanbing,0,debanbing,True,0.07259496,0.009787366,0.10956413,0.74248964,0.06556384
+../../data/corn/test/xiubing/xiubing (352).JPG,3,xiubing,3,xiubing,2,wenbaoyebanbing,4,yuanbanbing,True,0.0062422263,0.0034940378,0.016194046,0.9636466,0.010423051
+../../data/corn/test/xiubing/xiubing (353).jpg,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.14146757,0.010924131,0.08996682,0.6880748,0.06956666
+../../data/corn/test/xiubing/xiubing (355).jpg,3,xiubing,3,xiubing,0,debanbing,1,healthy,True,0.11040599,0.06810023,0.015664157,0.77337945,0.03245018
+../../data/corn/test/xiubing/xiubing (356).JPG,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.048121836,0.01702754,0.022425646,0.89667076,0.015754284
+../../data/corn/test/xiubing/xiubing (357).JPG,3,xiubing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.054350846,0.003124749,0.006808115,0.9275674,0.008148888
+../../data/corn/test/xiubing/xiubing (358).jpg,3,xiubing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.013971658,0.007858189,0.011729885,0.952897,0.013543146
+../../data/corn/test/xiubing/xiubing (360).JPG,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.008759176,0.00057238276,0.0017149283,0.9877582,0.0011953226
+../../data/corn/test/xiubing/xiubing (361).jpg,3,xiubing,3,xiubing,2,wenbaoyebanbing,0,debanbing,True,0.023697712,0.0014297344,0.03241991,0.93738043,0.005072224
+../../data/corn/test/xiubing/xiubing (363).jpg,3,xiubing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.031603627,0.017215211,0.015101092,0.91862804,0.017452024
+../../data/corn/test/xiubing/xiubing (367).JPG,3,xiubing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.023508402,0.002618838,0.006616584,0.96022797,0.00702824
+../../data/corn/test/xiubing/xiubing (370).jpg,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.1533772,0.029710438,0.059141584,0.69894254,0.058828287
+../../data/corn/test/xiubing/xiubing (371).jpg,3,xiubing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.16375436,0.02628163,0.063163,0.6331928,0.11360824
+../../data/corn/test/xiubing/xiubing (372).jpg,3,xiubing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.041529767,0.0024358688,0.015837938,0.9169688,0.023227531
+../../data/corn/test/xiubing/xiubing (374).jpg,3,xiubing,3,xiubing,4,yuanbanbing,0,debanbing,True,0.03923234,0.03549998,0.023774073,0.845974,0.05551959
+../../data/corn/test/xiubing/xiubing (378).jpg,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.010938293,0.007083631,0.009766671,0.9677187,0.004492615
+../../data/corn/test/xiubing/xiubing (379).jpg,3,xiubing,3,xiubing,2,wenbaoyebanbing,0,debanbing,True,0.011645435,0.009156079,0.012569551,0.95698094,0.009648077
+../../data/corn/test/xiubing/xiubing (380).jpg,3,xiubing,3,xiubing,2,wenbaoyebanbing,0,debanbing,True,0.0022517713,0.0005133744,0.003178153,0.99341255,0.0006441749
+../../data/corn/test/xiubing/xiubing (387).jpg,3,xiubing,3,xiubing,2,wenbaoyebanbing,0,debanbing,True,0.01767932,0.003278521,0.022860708,0.94617057,0.010010837
+../../data/corn/test/xiubing/xiubing (388).jpg,3,xiubing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.0404966,0.00661986,0.010708976,0.9277419,0.014432617
+../../data/corn/test/xiubing/xiubing (389).jpg,3,xiubing,3,xiubing,4,yuanbanbing,2,wenbaoyebanbing,True,0.020458318,0.018257298,0.028211202,0.90238726,0.030685972
+../../data/corn/test/xiubing/xiubing (392).jpg,3,xiubing,3,xiubing,4,yuanbanbing,2,wenbaoyebanbing,True,0.02627354,0.018253189,0.034393698,0.87767637,0.043403238
+../../data/corn/test/xiubing/xiubing (397).jpg,3,xiubing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.00829992,0.0028086996,0.0039272932,0.98048395,0.004480095
+../../data/corn/test/xiubing/xiubing (403).jpg,3,xiubing,3,xiubing,2,wenbaoyebanbing,0,debanbing,True,0.023600085,0.020587742,0.033551924,0.89898396,0.023276243
+../../data/corn/test/xiubing/xiubing(415).jpg,3,xiubing,3,xiubing,0,debanbing,1,healthy,True,0.18628055,0.17996703,0.10381404,0.37929747,0.1506409
+../../data/corn/test/xiubing/xiubing(416).jpg,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.10224639,0.021482589,0.08847785,0.7370433,0.050749775
+../../data/corn/test/xiubing/xiubing(421).jpg,3,xiubing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.11886851,0.011995957,0.068880305,0.6842607,0.11599446
+../../data/corn/test/xiubing/xiubing(430).jpg,3,xiubing,0,debanbing,3,xiubing,4,yuanbanbing,True,0.46221933,0.0481546,0.030944346,0.400515,0.058166664
+../../data/corn/test/xiubing/xiubing(433).jpg,3,xiubing,3,xiubing,0,debanbing,4,yuanbanbing,True,0.0103494525,0.0017133014,0.002701999,0.9818257,0.0034095754
+../../data/corn/test/xiubing/xiubing(435).jpg,3,xiubing,3,xiubing,0,debanbing,1,healthy,True,0.17504504,0.10315247,0.04490849,0.6497274,0.027166557
+../../data/corn/test/xiubing/xiubing(437).jpg,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.049983464,0.0032583256,0.013104919,0.92842937,0.0052238894
+../../data/corn/test/xiubing/xiubing(442).jpg,3,xiubing,3,xiubing,0,debanbing,2,wenbaoyebanbing,True,0.099595346,0.0035790592,0.009464797,0.8790973,0.008263624
+../../data/corn/test/xiubing/xiubing(443).jpg,3,xiubing,3,xiubing,0,debanbing,1,healthy,True,0.026882777,0.020973487,0.020951167,0.91053796,0.02065457
+../../data/corn/test/xiubing/xiubing(445).jpg,3,xiubing,3,xiubing,0,debanbing,1,healthy,True,0.061539046,0.045365416,0.012886009,0.83715034,0.0430592
+../../data/corn/test/yuanbanbing/nls_448.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.00347229,0.0053359093,0.011674343,0.003555928,0.9759615
+../../data/corn/test/yuanbanbing/nls_449.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0037522772,0.0045619593,0.012899968,0.00089414965,0.9778917
+../../data/corn/test/yuanbanbing/nls_450.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,0,debanbing,True,0.00066844345,0.00030445444,0.0015395534,0.00017191721,0.9973157
+../../data/corn/test/yuanbanbing/nls_451.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0014009929,0.013989008,0.023613889,0.0054196413,0.9555764
+../../data/corn/test/yuanbanbing/nls_452.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,0,debanbing,True,0.003723286,0.0028339345,0.019532837,0.0029432504,0.97096664
+../../data/corn/test/yuanbanbing/nls_453.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0026919632,0.0032422198,0.0046157436,0.0010535383,0.9883966
+../../data/corn/test/yuanbanbing/nls_454.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.011010458,0.15873426,0.28665128,0.010388721,0.5332153
+../../data/corn/test/yuanbanbing/nls_455.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0050055576,0.015146551,0.060117394,0.0043742713,0.9153563
+../../data/corn/test/yuanbanbing/nls_456.jpg,4,yuanbanbing,4,yuanbanbing,0,debanbing,2,wenbaoyebanbing,True,0.0053465674,0.0019925688,0.003884445,0.0010894215,0.98768705
+../../data/corn/test/yuanbanbing/nls_457.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0017357176,0.002987376,0.009061331,0.001046362,0.9851693
+../../data/corn/test/yuanbanbing/nls_458.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0037313085,0.013634653,0.013722256,0.0031898292,0.9657221
+../../data/corn/test/yuanbanbing/nls_459.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0039411127,0.10313771,0.30423418,0.006388139,0.5822988
+../../data/corn/test/yuanbanbing/nls_460.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0032253899,0.013031561,0.09686506,0.012658495,0.8742196
+../../data/corn/test/yuanbanbing/nls_461.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0028622672,0.012513935,0.016326627,0.0068484144,0.9614488
+../../data/corn/test/yuanbanbing/nls_462.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.010198258,0.036564544,0.07977832,0.004069893,0.86938894
+../../data/corn/test/yuanbanbing/nls_463.jpg,4,yuanbanbing,4,yuanbanbing,3,xiubing,0,debanbing,True,0.006252283,0.005149523,0.0036935818,0.008281038,0.9766236
+../../data/corn/test/yuanbanbing/nls_464.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.002139992,0.0038769515,0.0043597464,0.0011741532,0.98844916
+../../data/corn/test/yuanbanbing/nls_465.jpg,4,yuanbanbing,4,yuanbanbing,0,debanbing,1,healthy,True,0.00079968135,0.0003985311,0.0002588419,9.670398e-05,0.99844617
+../../data/corn/test/yuanbanbing/nls_466.jpg,4,yuanbanbing,4,yuanbanbing,0,debanbing,1,healthy,True,0.00016459682,0.00012442893,7.270643e-05,2.5774836e-05,0.9996126
+../../data/corn/test/yuanbanbing/nls_467.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0015502666,0.0034279786,0.021272497,0.0008706016,0.97287875
+../../data/corn/test/yuanbanbing/nls_468.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.003325402,0.0037595395,0.020984951,0.0029986198,0.9689315
+../../data/corn/test/yuanbanbing/nls_469.jpg,4,yuanbanbing,4,yuanbanbing,0,debanbing,1,healthy,True,0.005517491,0.005254276,0.0037402469,0.001561414,0.9839266
+../../data/corn/test/yuanbanbing/nls_470.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,0,debanbing,True,0.003772044,0.0015057967,0.0097036855,0.0017919592,0.9832265
+../../data/corn/test/yuanbanbing/nls_471.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0035601503,0.011225776,0.01581647,0.002328355,0.9670692
+../../data/corn/test/yuanbanbing/nls_472.jpg,4,yuanbanbing,4,yuanbanbing,1,healthy,2,wenbaoyebanbing,True,0.00027216488,0.0045482493,0.00440785,0.0009258112,0.9898459
+../../data/corn/test/yuanbanbing/nls_473.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0003155668,0.0011176197,0.0043831486,0.00049797795,0.99368566
+../../data/corn/test/yuanbanbing/nls_474.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.00021043512,0.0004553221,0.0012127062,8.586636e-05,0.9980356
+../../data/corn/test/yuanbanbing/nls_475.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,3,xiubing,True,0.0025852416,0.00941637,0.017415967,0.014670709,0.9559117
+../../data/corn/test/yuanbanbing/nls_478.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.020732908,0.09594392,0.22681911,0.031883195,0.62462085
+../../data/corn/test/yuanbanbing/nls_479.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.052718848,0.10846238,0.13462338,0.05456744,0.6496279
+../../data/corn/test/yuanbanbing/nls_481.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0035720188,0.035688672,0.055306498,0.004511101,0.9009216
+../../data/corn/test/yuanbanbing/nls_482.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0031758733,0.013213128,0.031067045,0.0036366226,0.9489073
+../../data/corn/test/yuanbanbing/nls_483.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0005093746,0.0006852341,0.001427557,0.00024336303,0.99713445
+../../data/corn/test/yuanbanbing/nls_484.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.008313732,0.015435238,0.021943279,0.0047830045,0.9495247
+../../data/corn/test/yuanbanbing/nls_485.jpg,4,yuanbanbing,4,yuanbanbing,1,healthy,0,debanbing,True,0.00078192336,0.001325774,0.0005253531,0.000292043,0.99707496
+../../data/corn/test/yuanbanbing/nls_486.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0021508506,0.010015781,0.03527748,0.0044398583,0.948116
+../../data/corn/test/yuanbanbing/nls_487.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.032252844,0.16590701,0.21080427,0.05362192,0.5374139
+../../data/corn/test/yuanbanbing/nls_488.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0016517251,0.013106202,0.019075157,0.0041527394,0.9620142
+../../data/corn/test/yuanbanbing/nls_489.jpg,4,yuanbanbing,4,yuanbanbing,1,healthy,2,wenbaoyebanbing,True,0.004663797,0.14042011,0.03476446,0.009968319,0.8101833
+../../data/corn/test/yuanbanbing/nls_490.jpg,4,yuanbanbing,4,yuanbanbing,1,healthy,2,wenbaoyebanbing,True,0.015200217,0.108705685,0.050404504,0.015576476,0.81011313
+../../data/corn/test/yuanbanbing/nls_491.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.005606276,0.02015122,0.045094784,0.0042840675,0.9248637
+../../data/corn/test/yuanbanbing/nls_492.jpg,4,yuanbanbing,4,yuanbanbing,1,healthy,2,wenbaoyebanbing,True,0.035754442,0.3551353,0.115734994,0.043205835,0.4501694
+../../data/corn/test/yuanbanbing/nls_493.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0020352635,0.0032559305,0.008126625,0.0016067288,0.9849755
+../../data/corn/test/yuanbanbing/nls_494.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0011163108,0.0013187199,0.0025364386,0.000980491,0.994048
+../../data/corn/test/yuanbanbing/nls_495.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,0,debanbing,True,0.00032793457,0.00024685808,0.000711071,0.00017116524,0.9985429
+../../data/corn/test/yuanbanbing/nls_496.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0019426129,0.0026287914,0.0105409995,0.0013730491,0.98351455
+../../data/corn/test/yuanbanbing/nls_497.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.00021377108,0.000817995,0.0032049813,0.00027015465,0.9954932
+../../data/corn/test/yuanbanbing/nls_498.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,0,debanbing,True,0.0014221404,0.00038847042,0.0017669733,0.0003212141,0.99610126
+../../data/corn/test/yuanbanbing/nls_499.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0042254925,0.025539123,0.093685076,0.0028086135,0.8737416
+../../data/corn/test/yuanbanbing/nls_500.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.008515051,0.04419418,0.10472319,0.004820815,0.83774674
+../../data/corn/test/yuanbanbing/nls_501.jpg,4,yuanbanbing,4,yuanbanbing,1,healthy,2,wenbaoyebanbing,True,0.0014409852,0.0037775894,0.001765895,0.000859211,0.99215627
+../../data/corn/test/yuanbanbing/nls_502.jpg,4,yuanbanbing,4,yuanbanbing,3,xiubing,1,healthy,True,0.0016024058,0.0018411047,0.0011883535,0.0021973404,0.99317086
+../../data/corn/test/yuanbanbing/nls_503.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.011081323,0.21636608,0.23152192,0.015959816,0.52507085
+../../data/corn/test/yuanbanbing/nls_504.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0088973995,0.051095057,0.16341501,0.013405557,0.763187
+../../data/corn/test/yuanbanbing/nls_505.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,0,debanbing,True,0.0011685063,0.0004773836,0.0104011055,0.00064501265,0.9873081
+../../data/corn/test/yuanbanbing/nls_506.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0006728634,0.0013321914,0.004233546,0.0013166238,0.9924448
+../../data/corn/test/yuanbanbing/nls_507.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0014830761,0.0018679593,0.007651613,0.0018391265,0.98715824
+../../data/corn/test/yuanbanbing/nls_508.jpg,4,yuanbanbing,4,yuanbanbing,1,healthy,2,wenbaoyebanbing,True,0.0042211777,0.0726219,0.07083769,0.0038089652,0.8485102
+../../data/corn/test/yuanbanbing/nls_509.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.004154697,0.02074606,0.08477477,0.005486481,0.8848379
+../../data/corn/test/yuanbanbing/nls_510.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.00160025,0.015649293,0.048537128,0.0020370833,0.93217623
+../../data/corn/test/yuanbanbing/nls_511.jpg,4,yuanbanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.006949066,0.18236643,0.5653811,0.015971841,0.22933152
+../../data/corn/test/yuanbanbing/nls_512.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.008453037,0.14144117,0.3877585,0.019108966,0.44323832
+../../data/corn/test/yuanbanbing/nls_513.jpg,4,yuanbanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.0026905753,0.07319473,0.56978446,0.011000503,0.3433297
+../../data/corn/test/yuanbanbing/nls_514.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,0,debanbing,True,0.004533586,0.0020035717,0.038035493,0.0021456918,0.9532817
+../../data/corn/test/yuanbanbing/nls_515.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0027663119,0.014362172,0.023300538,0.0012848299,0.95828617
+../../data/corn/test/yuanbanbing/nls_516.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.014583778,0.05209113,0.06041173,0.011126955,0.8617865
+../../data/corn/test/yuanbanbing/nls_517.jpg,4,yuanbanbing,4,yuanbanbing,1,healthy,2,wenbaoyebanbing,True,0.011183301,0.0584752,0.045875568,0.0066604656,0.8778054
+../../data/corn/test/yuanbanbing/nls_518.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.01369769,0.024193434,0.13226268,0.008853643,0.82099265
+../../data/corn/test/yuanbanbing/nls_519.jpg,4,yuanbanbing,4,yuanbanbing,1,healthy,2,wenbaoyebanbing,True,0.0035526247,0.03728314,0.026977826,0.0017095979,0.9304767
+../../data/corn/test/yuanbanbing/nls_520.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0021026225,0.0033668901,0.023621907,0.0007061546,0.9702023
+../../data/corn/test/yuanbanbing/nls_521.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.00060370966,0.005475558,0.010623674,0.00065809535,0.98263896
+../../data/corn/test/yuanbanbing/nls_522.jpg,4,yuanbanbing,4,yuanbanbing,0,debanbing,2,wenbaoyebanbing,True,0.0011549355,0.00022857658,0.000909737,0.0005321589,0.9971745
+../../data/corn/test/yuanbanbing/nls_523.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.00039167542,0.0014829275,0.00876971,0.00018655947,0.9891691
+../../data/corn/test/yuanbanbing/nls_524.jpg,4,yuanbanbing,4,yuanbanbing,0,debanbing,3,xiubing,True,0.00045210824,0.00017456908,0.00028675274,0.00038218367,0.99870443
+../../data/corn/test/yuanbanbing/nls_525.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.012402511,0.020883588,0.05941868,0.01755118,0.8897441
+../../data/corn/test/yuanbanbing/nls_526.jpg,4,yuanbanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.0057738493,0.1299715,0.48308986,0.00859654,0.37256816
+../../data/corn/test/yuanbanbing/nls_527.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.013395194,0.1518832,0.3342823,0.026366668,0.4740727
+../../data/corn/test/yuanbanbing/nls_528.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0017251996,0.023024919,0.040223297,0.0021869778,0.93283963
+../../data/corn/test/yuanbanbing/nls_529.jpg,4,yuanbanbing,4,yuanbanbing,1,healthy,2,wenbaoyebanbing,True,0.015742116,0.10243441,0.02805219,0.013662361,0.84010893
+../../data/corn/test/yuanbanbing/nls_530.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.022667687,0.15162787,0.18433307,0.030548275,0.61082315
+../../data/corn/test/yuanbanbing/nls_531.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,3,xiubing,True,0.02000447,0.024752274,0.100937754,0.026189616,0.82811594
+../../data/corn/test/yuanbanbing/nls_532.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0033785978,0.030584313,0.16475104,0.0016746147,0.79961145
+../../data/corn/test/yuanbanbing/nls_533.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0040996857,0.019385,0.24425918,0.003422103,0.72883403
+../../data/corn/test/yuanbanbing/nls_534.jpg,4,yuanbanbing,4,yuanbanbing,1,healthy,2,wenbaoyebanbing,True,0.0008709424,0.0030446036,0.001141826,0.00024106132,0.99470156
+../../data/corn/test/yuanbanbing/nls_536.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.020411476,0.09541706,0.17427616,0.017720275,0.69217503
+../../data/corn/test/yuanbanbing/nls_537.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.014932097,0.01882186,0.04811575,0.0048600365,0.91327024
+../../data/corn/test/yuanbanbing/nls_539.jpg,4,yuanbanbing,4,yuanbanbing,1,healthy,2,wenbaoyebanbing,True,0.0018006105,0.027461465,0.0022428546,0.0007846467,0.9677104
+../../data/corn/test/yuanbanbing/nls_540.jpg,4,yuanbanbing,4,yuanbanbing,1,healthy,2,wenbaoyebanbing,True,0.00901597,0.21096978,0.09092898,0.0080105625,0.68107474
+../../data/corn/test/yuanbanbing/nls_541.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.022335302,0.099966936,0.41213608,0.03608229,0.42947936
+../../data/corn/test/yuanbanbing/nls_542.jpg,4,yuanbanbing,2,wenbaoyebanbing,4,yuanbanbing,1,healthy,True,0.020742591,0.14892821,0.41838595,0.025560888,0.38638237
+../../data/corn/test/yuanbanbing/nls_543.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0055137733,0.086359434,0.30472055,0.008026947,0.59537935
+../../data/corn/test/yuanbanbing/nls_544.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0025727786,0.018469235,0.07761609,0.008305551,0.8930364
+../../data/corn/test/yuanbanbing/nls_545.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.005912638,0.06925843,0.10299971,0.012856571,0.80897266
+../../data/corn/test/yuanbanbing/nls_546.jpg,4,yuanbanbing,4,yuanbanbing,1,healthy,2,wenbaoyebanbing,True,0.0034295276,0.035156295,0.028291449,0.004103809,0.9290189
+../../data/corn/test/yuanbanbing/nls_547.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.00025281156,0.00033313,0.0005011393,0.00013928505,0.99877363
+../../data/corn/test/yuanbanbing/nls_548.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0036123877,0.015641073,0.023005184,0.0043178094,0.9534236
+../../data/corn/test/yuanbanbing/nls_549.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0009714704,0.002545131,0.0060190563,0.00039819913,0.9900662
+../../data/corn/test/yuanbanbing/nls_550.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0006318293,0.010679304,0.011282676,0.0007484221,0.97665775
+../../data/corn/test/yuanbanbing/nls_551.jpg,4,yuanbanbing,4,yuanbanbing,1,healthy,2,wenbaoyebanbing,True,0.0020774493,0.010680865,0.008484157,0.0006063955,0.9781512
+../../data/corn/test/yuanbanbing/nls_552.jpg,4,yuanbanbing,4,yuanbanbing,2,wenbaoyebanbing,1,healthy,True,0.0017264214,0.010612921,0.029707404,0.00079607114,0.9571572
